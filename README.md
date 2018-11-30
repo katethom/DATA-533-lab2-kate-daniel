@@ -1,7 +1,7 @@
 # cadtax Package
 
 ## DATA 533 Lab 2
-### Daniel Carvalho & Kate Thomson & 
+### Daniel Carvalho & Kate Thomson
 
 Submission repository for DATA-533 Lab 2
 
