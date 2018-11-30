@@ -1,7 +1,7 @@
 Package: cadtax
 Sub-packages: taxrates and objectprice
 
-### Sub-package: taxrates
+### Sub-package: objectprice
 
 ***Module: objectprice*** 
 
@@ -18,7 +18,7 @@ This module is responsible for calculating the tax of the object based on the pr
 ```__init__``` takes the object name, price, and province name (as its abbreviation).
 ```tax``` uses an if statement to apply the different amounts of tax to the price and create a new total price.
 
-### Sub-Package: taxrates ***
+### Sub-Package: taxrates
 This module presents the user with a dataframe of the tax rates in Canadian provinces:
 
 ***Module: taxrates ***
