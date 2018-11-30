@@ -9,13 +9,13 @@ cadtax is a python package that allows users to conveniently calculate the tax r
 
 ---
 
-###Requirements:
+### Requirements:
 
 In order to be able to use the package, you would have to install the pandas package.
 
 ---
 
-###Package structure:
+### Package structure:
 
 cadtax --> package
 
