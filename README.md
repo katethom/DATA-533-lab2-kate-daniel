@@ -11,10 +11,15 @@ cadtax is a python package that allows users to conveniently calculate the tax r
 Package structure:
 
 cadtax --> package
+
   -- objectprice --> sub-package
+  
     -- objectprice --> module
+    
     -- calctax -->module
+    
   -- taxrates --> sub-package
+  
     -- rates --> module
 
 Please use cadtax_sample.py to test out the package and the functionalities.
