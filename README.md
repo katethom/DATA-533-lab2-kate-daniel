@@ -8,7 +8,14 @@ Submission repository for DATA-533 Lab 2
 cadtax is a python package that allows users to conveniently calculate the tax rates of any object depending on which Canadian province he user resides in. It also gives information on the tax rates in Canada. 
 
 ---
-Package structure:
+
+###Requirements:
+
+In order to be able to use the package, you would have to install the pandas package.
+
+---
+
+###Package structure:
 
 cadtax --> package
 
