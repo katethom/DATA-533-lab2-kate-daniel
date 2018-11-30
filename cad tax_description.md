@@ -11,7 +11,7 @@ This module has a class ODBCInterface which contains the following methods:
 ```__init__``` takes the object name, price, and province name (as its abbreviation) and stores it in an object assigned by the user.
 ```getprice``` takesthe information of the object and calls on our taxrates module to give a statement about the total price of the object.
 
-***Module: calctax ***
+***Module: calctax***
 
 This module is responsible for calculating the tax of the object based on the province and price given for the object.
 
@@ -21,7 +21,7 @@ This module is responsible for calculating the tax of the object based on the pr
 ### Sub-Package: taxrates
 This module presents the user with a dataframe of the tax rates in Canadian provinces:
 
-***Module: taxrates ***
+***Module: taxrates***
 This module contains the following methods to give the user tax information in Canada:
 
 ```taxrates``` takes a dataframe created by the package designer and presents it to the user.
